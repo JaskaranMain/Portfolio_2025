@@ -7,6 +7,6 @@ Build this resume as my Project and included Services i offer.</p>
 <hr>
 <h2>Working on it</h2>
 Create the first page of portfolio included the all componets that are need in the websites
-<hr>first i have to make some project for put in the portfolio:
+<hr><h2>Project Needed for portfolio:</h2>
 -Cloud-Based URL Shortener.
 -Cloud Storage System.

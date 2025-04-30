@@ -7,4 +7,5 @@ Build this resume as my Project and included Services i offer.</p>
 -Cloud Storage System.<br>
 portfolio is in progress.<br>
 project will start from next month that is May.
-make projects now better to get skills then show the portfolio
+make projects now better to get skills then show the portfolio.
+

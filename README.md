@@ -1,4 +1,4 @@
-# THIS PROTFOLIO WILL RESUME AFTER CREATING 2 PROJECTS OF CLOUD AND 1 JAVA PROJECT.
+# THIS PROTFOLIO WILL RESUME AFTER CREATING 1 PROJECT OF CLOUD AND 1 of Backend.
 <p style="color: green;">This is new Portfolio 2025 as per my updated skills and experience,<br>
 Build this resume as my Project and included Services i offer.</p>
 portfolio is in progress.<br>

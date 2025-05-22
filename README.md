@@ -7,7 +7,7 @@ portfolio is in progress.<br>
 _________________________________________________________________________
 | **Section**                 | **Description**                         |
 |-----------------------------|-----------------------------------------|
-| 🏠 **Home**                | Welcome page with a brief introduction.  |
+| 🏠 **Home**                | Welcome page with a brief introduction.  | Done
 | 👨‍💻 **About Me**            | Who I am and what I do.                  | Done
 | 🛠️ **Projects**            | My work, code, and contributions.        | Done
 | 📜 **Skills/Certificates** | Technologies I master and certifications.| Done

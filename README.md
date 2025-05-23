@@ -13,5 +13,5 @@ _________________________________________________________________________
 | 📜 **Skills/Certificates** | Technologies I master and certifications.| Done
 | ✍️ **Blog**                | My thoughts, tutorials, and articles.    |
 | 🌟 **My Journey**          | My career path and milestones.           |
-| 💼 **Hire Me**             | Let's work together!                     |
+| 💼 **Hire Me**             | Let's work together!                     | These are what I can craft for you :
 -------------------------------------------------------------------------

@@ -11,7 +11,7 @@ _________________________________________________________________________
 | 👨‍💻 **About Me**            | Who I am and what I do.                  | Done
 | 🛠️ **Projects**            | My work, code, and contributions.        | Done
 | 📜 **Skills/Certificates** | Technologies I master and certifications.| Done
-| ✍️ **Blog**                | My thoughts, tutorials, and articles.    |
-| 🌟 **My Journey**          | My career path and milestones.           |
+| ✍️ **Blog**                | My thoughts, tutorials, and articles.    | Done
+| 🌟 **My Journey**          | My career path and milestones.           | Done
 | 💼 **Hire Me**             | Let's work together!                     | These are what I can craft for you :
 -------------------------------------------------------------------------
